@@ -1,0 +1,9 @@
+[submodule "dustin-heckmann/themes/hugo-theme-codex"]
+	path = dustin-heckmann/themes/hugo-theme-codex
+	url = https://github.com/jakewies/hugo-theme-codex.git
+[submodule "dustin-heckmann/themes/ananke"]
+	path = dustin-heckmann/themes/ananke
+	url = https://github.com/budparr/gohugo-theme-ananke.git
+[submodule "dustin-heckmann/themes/eureka"]
+	path = dustin-heckmann/themes/eureka
+	url = https://github.com/wangchucheng/hugo-eureka.git
